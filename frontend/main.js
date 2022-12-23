@@ -8,7 +8,7 @@ const functionApiUrl = 'https://azuregetvisitorcounter.azurewebsites.net/api/Get
 
 const getVisitCount = () => {
     let count = 30;
-    fetch(functionApiUrl).then(response => {
+    fetch(localFunctionApi).then(response => {
         return response.json()
     }).then(response => {
         console.log("Website called function API",response);
