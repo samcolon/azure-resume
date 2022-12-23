@@ -8,6 +8,7 @@ Custom domain name is hosted on Cloudflare. Resume site (https) is setup with SS
 - NuGet Microsoft.Azure.WebJobs.Extensions.CosmoDB
 - Visual Studio Code Extension: Azure Storage
 - Microsoft Azure Storage Explorer
+- LucidChart
 
 ## First Steps:
 - Frontend folder contains the website.
