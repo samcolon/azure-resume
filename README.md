@@ -28,5 +28,6 @@ Custom domain name is hosted on Cloudflare. Resume site (https) is setup with SS
 
 
 
-![azurediagram](https://user-images.githubusercontent.com/116681627/209362922-30d9b72a-f3d0-4176-aefd-e448090a4cf5.PNG)
+![azurediagram](https://user-images.githubusercontent.com/116681627/209363638-860ebe6a-7686-46fa-9c37-40581263bf8f.PNG)
+
 
