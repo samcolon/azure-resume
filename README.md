@@ -17,13 +17,13 @@ Custom domain name is hosted on Cloudflare. Resume site (https) is setup with SS
 - Created Azure Blob Storage.
 - Created Azure CosmosDB in Azure portal.
 - Deployed Frontend folder to Azure Blob Storage via Azure Storage Explorer.
-- Created Azure CDN for Azure for Azure Blob Storage.
+- Created Azure CDN.
 
 ## Second Steps:
 - Backend folder contains the api
 - Tested api locally after updating the JavaScript code within local index.html.
 - Deployed Backend folder to Azure Blob Storage via Azure Storage Explorer.
-
+- Built a GitHub CI/CD pipeline for easy website updating.
 
 
 
